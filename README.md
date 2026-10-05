@@ -291,6 +291,7 @@ JPMorgan SWE interviews include HackerRank OAs for campus roles and panel interv
 | [Designing Data-Intensive Applications](https://dataintensive.net) | Best technical book for understanding distributed systems at depth | Paid book |
 | [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview) | Structured course on common design problems | Paid |
 | [High Scalability blog](http://highscalability.com) | Real architecture breakdowns from companies | Free |
+| [AI Agent Run Inspector](https://frontendatlas.com/system-design/ai-agent-run-inspector) | Frontend system-design exercise covering out-of-order trace events, stream reconnection, and human-approval races | Free question + full reference answer |
 
 ### Behavioral prep
 
